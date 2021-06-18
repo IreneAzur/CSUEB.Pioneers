@@ -1,2 +1,3 @@
 # CSUEB.Pioneers
-My own website!
+
+This website is owned by Irene Azur.

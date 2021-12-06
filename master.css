@@ -35,7 +35,7 @@ p {
   margin:5vh 5vw;
   height:40vh;
   padding:4vmin;
-  position:relative;
+  position:center;
   text-align:center;
   &:before {
     border-radius:0px;

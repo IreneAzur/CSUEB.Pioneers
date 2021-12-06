@@ -29,31 +29,31 @@ p {
   border-radius:0px;
   border-right-color:#eee;
   border-top-color:#ddd;
-  box-shadow:0 0 1px 0 rgba(0,0,0,.12) inset, 0 1px 2px 3px rgba(0,0,0,.12);
+  box-shadow:0 0 1px 0 rgba(0,0,0,.10) inset, 0 0px 1px 2px rgba(0,0,0,.10);
   box-sizing:border-box;
   display:inline-block;
-  margin:1vh 1vw;
-  height:10vh;
-  padding:1vmin;
+  margin:0vh 0vw;
+  height:8vh;
+  padding:0vmin;
   position:center;
   text-align:center;
   &:before {
     border-radius:0px;
     bottom:-1vmin;
-    box-shadow:0 1px 2px 0 rgba(0,0,0,.12) inset;
+    box-shadow:0 0px 1px 0 rgba(0,0,0,.10) inset;
     content:"";
     left:-1vmin;
-    position:absolute;
+    position:center;
     right:-1vmin;
     top:-1vmin;
   }
   &:after {
     border-radius:0px;
     bottom:-1vmin;
-    box-shadow: 0 1px 2px 0 rgba(0,0,0,.12);
+    box-shadow: 0 0px 1px 0 rgba(0,0,0,.10);
     content:"";
     left:-1vmin;
-    position:absolute;
+    position:center;
     right:-1vmin;
     top:-1vmin;
   }

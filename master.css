@@ -22,41 +22,14 @@ body {
 }
 
 p {
-  background-color:#ddc;
-  border:solid 0vmin #eee;
-  border-bottom-color:#fff;
-  border-left-color:#eee;
-  border-radius:0px;
-  border-right-color:#eee;
-  border-top-color:#ddd;
-  box-shadow:0 0 1px 0 rgba(0,0,0,.10) inset, 0 0px 1px 2px rgba(0,0,0,.10);
-  box-sizing:border-box;
-  display:inline-block;
-  margin:0vh 0vw;
-  height:8vh;
-  padding:0vmin;
-  position:center;
-  text-align:center;
-  &:before {
-    border-radius:0px;
-    bottom:-1vmin;
-    box-shadow:0 0px 1px 0 rgba(0,0,0,.10) inset;
-    content:"";
-    left:-1vmin;
-    position:center;
-    right:-1vmin;
-    top:-1vmin;
-  }
-  &:after {
-    border-radius:0px;
-    bottom:-1vmin;
-    box-shadow: 0 0px 1px 0 rgba(0,0,0,.10);
-    content:"";
-    left:-1vmin;
-    position:center;
-    right:-1vmin;
-    top:-1vmin;
-  }
+  border: 0.5rem outset pink;
+  outline: 0.5rem solid khaki;
+  box-shadow: 0 0 0 2rem skyblue;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
 }
 nav {
       padding: 8px;

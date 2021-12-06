@@ -22,14 +22,15 @@ body {
 }
 
 p {
-  border: 0.5rem outset pink;
-  outline: 0.5rem solid khaki;
-  box-shadow: 0 0 0 2rem skyblue;
-  border-radius: 12px;
+  border: 0.2rem outset pink;
+  outline: 0.2rem solid white;
+  box-shadow: 0 0 0 1rem black;
+  border-radius: 10px;
   font: bold 1rem sans-serif;
-  margin: 2rem;
+  margin: 1.5rem;
   padding: 1rem;
-  outline-offset: 0.5rem;
+  outline-offset: 0.2rem;
+  text-align: center;
 }
 
 nav {

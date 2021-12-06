@@ -19,7 +19,7 @@ body {
       background: url(background.jpg);
       background-position: center center;
       background-repeat: no-repeat;
-      background-size: auto;
+      background-size: cover;
 }
 
 p {

@@ -21,6 +21,29 @@ body {
       background-size: 100% 100$;
 }
 
+div {
+  width: 150px;
+  height: 200px;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 100px;
+  font-family: poppins;
+  color: pink;
+  position: relative;
+  animation: mymove 5s infinite;
+}
+
+#div1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {animation-timing-function: ease-in-out;}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
+
 nav {
       padding: 8px;
 }

@@ -21,18 +21,6 @@ body {
       background-size: 100% 100$;
 }
 
-p {
-  border: 0.2rem outset pink;
-  outline: 0.2rem solid white;
-  box-shadow: 0 0 0 1rem black;
-  border-radius: 10px;
-  font: bold 1rem Poppins;
-  margin: 1.5rem;
-  padding: 1rem;
-  outline-offset: 0.2rem;
-  text-align: center;
-}
-
 nav {
       padding: 8px;
 }

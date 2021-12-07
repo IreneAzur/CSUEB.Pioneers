@@ -160,7 +160,7 @@ nav ul li a {
             display: block;
             width: 20px;
             height: 2px;
-            background: url(background.png);
+            background: #fff;
             border-radius: 2px;
             margin-left: 14px;
       }

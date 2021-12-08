@@ -21,6 +21,13 @@ body {
       background-size: 100% 100$;
 }
 
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  padding: 10px;
+}
+
 .div1 {
   width: 10px;
   height: 20px;

@@ -23,14 +23,14 @@ body {
 
 .div1 {
   text-align: center;
-  width: 10px;
+  width: 50px;
   height: 20px;
   background-color: transparent;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 60px;
   font-family: Poppins;
   color: pink;
-  position: center;
+  position: relative;
   animation: mymove 5s ease-in-out forwards;
 }
 

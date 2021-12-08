@@ -30,7 +30,7 @@ body {
   font-size: 60px;
   font-family: Poppins;
   color: pink;
-  position: relative;
+  position: center;
   animation: mymove 5s ease-in-out forwards;
 }
 

@@ -37,6 +37,7 @@ body {
   width: 50px;
   height: 20px;
   background-color: transparent;
+  background-position: center;
   font-weight: normal;
   font-size: 80px;
   font-family: Monaco;

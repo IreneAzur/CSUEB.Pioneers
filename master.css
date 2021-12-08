@@ -38,7 +38,7 @@ body {
   background-color: transparent;
   font-weight: normal;
   font-size: 60px;
-  font-family: Poppins;
+  font-family: Monaco;
   color: pink;
   position: relative;
   animation: mymove 5s ease-in-out forwards;

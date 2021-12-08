@@ -22,8 +22,8 @@ body {
 }
 
 .div1 {
-  width: 100px;
-  height: 100px;
+  width: 9px;
+  height: 10px;
   background-color: transparent;
   font-weight: bold;
   font-size: 100px;
@@ -41,7 +41,7 @@ body {
 
 @keyframes mymove {
   from {left: 0px;}
-  to {left: 300px;}
+  to {left: 100px;}
 }
 
 nav {

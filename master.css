@@ -41,7 +41,7 @@ body {
   font-weight: normal;
   font-size: 80px;
   font-family: Monaco;
-  color: pink;
+  color: #8ec5fc;
   position: relative;
   animation: mymove 5s ease-in-out forwards;
 }
